@@ -1,0 +1,33 @@
+ * {}
+
+ html {}
+
+ .tituloPrincipal{
+  background-color: rgb(189, 189, 189);
+  color: rgb(255, 255, 255);
+}
+
+ #tituloSecundario{
+  background-color: rgb(255, 216, 216);
+  color: rgb(204, 205, 207);
+ }
+
+
+.img1{
+border-style: groove;
+}
+.img2{
+  border-style: groove;
+}
+
+.contenedorImagenes{
+  background-color: rgb(190, 206, 206);
+  display: flex;
+}
+
+
+
+
+
+
+
